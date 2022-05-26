@@ -1,0 +1,32 @@
+body{
+    background-color: black
+}
+h1{
+    font-family:'Oswald', sans-serif;
+    background-color: white;
+    color : black;
+}
+#Show_Sketch{
+    float: right;
+    
+}
+#score{
+    font-size: 20px;
+    font-family:'Oswald', sans-serif;
+   margin-left: 5px;
+   color:white;
+}
+#timer{
+    font-size: 20px;
+    float: right;
+    font-family:'Oswald', sans-serif;
+   margin-right: 5px;
+   color: white;
+}
+p{
+    color:white;
+    font-size:  25px;
+}
+    #sketch_to_be_drawn{
+    color: burlywood;
+    }
